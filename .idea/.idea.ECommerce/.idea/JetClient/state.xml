@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="id" value="787b8216-b0f8-4257-8b4d-7ec321d888c6" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="https://localhost:5001/api/products/3" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="folders">
+            <list>
+              <folderState>
+                <option name="id" value="42ee46a5-969f-4bad-96b4-a1e5d8a832b8" />
+                <option name="name" value="Section 2 - API Basics" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="description" value="/weatherforecast" />
+                      <option name="id" value="faa98eee-fe1b-418c-9cb4-e63c8b389b48" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Weather Forecast" />
+                      <option name="url" value="https://localhost:5001/weatherforecast" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="/api/products" />
+                      <option name="id" value="b4a45032-4435-46c8-bef5-d07fbf903c76" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Products" />
+                      <option name="url" value="{{url}}/api/products" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="/api/products/2" />
+                      <option name="id" value="a4b4c7be-a08c-4d76-9ed3-10b018278063" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product" />
+                      <option name="url" value="{{url}}/api/products/2" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="1000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/products" />
+                <option name="id" value="ff6d26f5-e45d-46b6-a81a-648396859c31" />
+                <option name="name" value="Section 3 - Architecture" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="49f8e8e1-def6-46f5-9a4f-40072bd183e5" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Products" />
+                      <option name="url" value="{{url}}/api/products" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products/2" />
+                      <option name="id" value="b9cfe87d-c0e8-4379-a41a-3979d34b870b" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product" />
+                      <option name="url" value="{{url}}/api/products/2" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products/brands" />
+                      <option name="id" value="3b8d80c7-31dd-4d68-a0b6-1dbcac147208" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product Brands" />
+                      <option name="url" value="{{url}}/api/products/brands" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products/types" />
+                      <option name="id" value="070c599f-1a46-4206-8437-dd05a6759237" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product Types" />
+                      <option name="url" value="{{url}}/api/products/types" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="2000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/products" />
+                <option name="id" value="f93a4af8-bbbb-4717-860e-b0bf695e1d15" />
+                <option name="name" value="Section 4 - Genrics" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="2c373d7e-431b-40da-beb9-a9cbbb3a3d10" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Products" />
+                      <option name="url" value="{{url}}/api/products" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products/2" />
+                      <option name="id" value="164ee2cb-c816-42eb-9899-c72d394985b0" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product" />
+                      <option name="url" value="{{url}}/api/products/2" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products/brands" />
+                      <option name="id" value="b1b0ddd0-75e6-47ab-b102-4faa112e8bc6" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product Brands" />
+                      <option name="url" value="{{url}}/api/products/brands" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products/brands" />
+                      <option name="id" value="3edef9cb-5c8a-4188-8a1d-313e8a374dee" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Product Types" />
+                      <option name="url" value="{{url}}/api/products/brands" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="3000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/" />
+                <option name="id" value="ae2a566e-e72d-4ce2-80bc-7f35efa76999" />
+                <option name="name" value="Section 5 - Error Handling" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/buggy/notfound" />
+                      <option name="id" value="6ace9a0b-c2ec-428a-bd40-ae6b6df0b49b" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Not Found Product" />
+                      <option name="url" value="{{url}}/api/buggy/notfound" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/buggy/servererror" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="27ba4156-1a5d-41cf-b2a1-d59687ca742a" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Null Ref Error" />
+                      <option name="url" value="{{url}}/api/buggy/servererror" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/buggy/badrequest" />
+                      <option name="id" value="695df461-6326-46c6-8da1-a65b541ff75a" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get 400 Error" />
+                      <option name="url" value="{{url}}/api/buggy/badrequest" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/buggy/badrequest/five" />
+                      <option name="id" value="ce567081-f57a-4cdb-bcf8-2c604bc8d8fc" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get 400 Validation error" />
+                      <option name="url" value="{{url}}/api/buggy/badrequest/five" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/endpointthatdoesnotexist" />
+                      <option name="id" value="75e74285-5523-4535-8233-df1470f45d7b" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Not Found Endpoint" />
+                      <option name="url" value="{{url}}/api/endpointthatdoesnotexist" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="4000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/products" />
+                <option name="id" value="76be5a6b-f512-4083-9675-2adc37f92be0" />
+                <option name="name" value="Section 6 - Paging, Sorting and Filtering" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="5cb5d5a0-ff53-407f-a72c-1a99b8d12e8f" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="GetProducts sorted by name (default case)" />
+                      <option name="url" value="{{url}}/api/products" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="812eca58-4395-4e81-b882-877b6e5436ca" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="GetProducts sorted by Price Ascending" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="sort" />
+                            <option name="value" value="priceAsc" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?sort=priceAsc" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="46bb55f8-30a0-46e6-9824-13bfb0a044dc" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="GetProducts sorted by Price Descending" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="sort" />
+                            <option name="value" value="priceDesc" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?sort=priceDesc" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="ac8fd7f3-6763-4bc7-8fba-38d8cae9915e" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Products by Brand" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="brandId" />
+                            <option name="value" value="2" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?brandId=2" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="710bd93b-a156-4c82-af00-a24d5e373057" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Products by Type" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="typeId" />
+                            <option name="value" value="3" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?typeId=3" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="df647143-cd22-4c23-9f5b-952751041d02" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Products by Brand And Type" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="typeId" />
+                            <option name="value" value="3" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="brandId" />
+                            <option name="value" value="2" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?typeId=3&amp;brandId=2" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="id" value="db8a8720-2912-4720-8149-e07aada910ba" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Paged Products Page 0 Size 5" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="pageSize" />
+                            <option name="value" value="3" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="pageIndex" />
+                            <option name="value" value="1" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?pageSize=3&amp;pageIndex=1" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Origin" />
+                            <option name="value" value="https://localhost:4200" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="04f29fe0-315d-413b-a69b-ed8f9092c1f8" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Paged Products by Brand And Type Sorted by price desc" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="typeId" />
+                            <option name="value" value="3" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="brandId" />
+                            <option name="value" value="2" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="sort" />
+                            <option name="value" value="priceDesc" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?typeId=3&amp;brandId=2&amp;sort=priceDesc" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Origin" />
+                            <option name="value" value="https://localhost:4200" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="7a2b90e6-2dbc-4399-85da-29c7ea8ac0ac" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Paged Products by Name (blue)" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="search" />
+                            <option name="value" value="blue" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="sort" />
+                            <option name="value" value="priceDesc" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?search=blue&amp;sort=priceDesc" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/products" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Origin" />
+                            <option name="value" value="https://localhost:4200" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="9a0cd26e-ab03-44ea-8d80-21fc8f44ae67" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Check Cors is enabled" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="typeId" />
+                            <option name="value" value="3" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="brandId" />
+                            <option name="value" value="2" />
+                          </queryParamState>
+                          <queryParamState>
+                            <option name="key" value="sort" />
+                            <option name="value" value="priceDesc" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/products?typeId=3&amp;brandId=2&amp;sort=priceDesc" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="5000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/basket" />
+                <option name="id" value="3ff4593f-60cf-42b2-a0ca-cd675c2fd1d3" />
+                <option name="name" value="Section 13 - Basket" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="id" value="cf913fcd-a2c5-4d19-bcac-48e394ae12dc" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Basket" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="id" />
+                            <option name="value" value="basket1" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/basket?id=basket1" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;id&quot;: &quot;basket1&quot;,&#10;  &quot;items&quot;: [&#10;    {&#10;      &quot;id&quot;: 4,&#10;      &quot;productName&quot;: &quot;.NET Black &amp; White Mug&quot;,&#10;      &quot;price&quot;: 8.22,&#10;      &quot;quantity&quot;: 32,&#10;      &quot;pictureUrl&quot;: &quot;https://localhost:5001/images/products/2.png&quot;,&#10;      &quot;brand&quot;: &quot;.NET&quot;,&#10;      &quot;type&quot;: &quot;USB Memory Stick&quot;&#10;    }&#10;  ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="29f728ec-0a27-4ae1-a399-1405c5afd592" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update Basket" />
+                      <option name="url" value="{{url}}/api/basket" />
+                    </requestState>
+                    <requestState>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="id" value="337b491f-64c5-46e6-ae0a-da6c53c4b183" />
+                      <option name="method" value="DELETE" />
+                      <option name="name" value="Delete Basket" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="id" />
+                            <option name="value" value="b2" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/basket?id=b2" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="6000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/" />
+                <option name="id" value="c5302342-c52e-4066-be8c-b4fb77baac18" />
+                <option name="name" value="Section 15 - Identity" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;email&quot;: &quot;bob@test.com&quot;,&#10;&#9;&quot;password&quot;: &quot;Pa$$w0rd&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/login" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="b9c12dbc-6d4b-457b-beb0-c7d1f0c5e970" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Login as Bob and save token to env" />
+                      <option name="testScript" value="const user = jc.response.json();&#10;&#10;jc.test(&quot;Has properties&quot;, function () {&#10;    jc.expect(user).to.have.property('firstName');&#10;    jc.expect(user).to.have.property('email');&#10;    jc.expect(user).to.have.property('token');&#10;});&#10;&#10;if (jc.test(&quot;Has properties&quot;)) {&#10;    jc.globals.set('bob_token', user.token);&#10;}&#10;" />
+                      <option name="url" value="{{url}}/api/account/login" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;email&quot;: &quot;bob@test.com&quot;,&#10;&#9;&quot;password&quot;: &quot;BadPassword&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/login" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="6815744c-f8a3-4da5-bfac-e466eae8dcef" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Login as Bob bad password" />
+                      <option name="url" value="{{url}}/api/account/login" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;displayName&quot;: &quot;Tom&quot;,&#10;&#9;&quot;email&quot;: &quot;tom@test.com&quot;,&#10;&#9;&quot;password&quot;: &quot;Pa$$w0rd&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/register" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="4e7b41df-7e89-4c88-a7cc-c53179907994" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Register as Tom and save token to env" />
+                      <option name="testScript" value="const user = jc.response.json();&#10;&#10;jc.test(&quot;Has properties&quot;, function () {&#10;    jc.expect(user).to.have.property('displayName');&#10;    jc.expect(user).to.have.property('email');&#10;    jc.expect(user).to.have.property('token');&#10;});&#10;&#10;if (jc.test(&quot;Has properties&quot;)) {&#10;    jc.globals.set('tom_token', user.token);&#10;}&#10;" />
+                      <option name="url" value="{{url}}/api/account/register" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;email&quot;: &quot;tom@test.com&quot;,&#10;&#9;&quot;password&quot;: &quot;Pa$$w0rd&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/login" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="c412e5b3-3813-4b87-a030-3248335c1e0f" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Login as Tom and save token to env" />
+                      <option name="testScript" value="const user = jc.response.json();&#10;&#10;jc.test(&quot;Has properties&quot;, function () {&#10;    jc.expect(user).to.have.property('displayName');&#10;    jc.expect(user).to.have.property('email');&#10;    jc.expect(user).to.have.property('token');&#10;});&#10;&#10;if (jc.test(&quot;Has properties&quot;)) {&#10;    jc.globals.set('tom_token', user.token);&#10;}&#10;" />
+                      <option name="url" value="{{url}}/api/account/login" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/buggy/testauth" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="disabled" value="true" />
+                            <option name="key" value="Authorization" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="de476214-7189-4b21-ae79-c8f395ad0e31" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Secret from buggy (return 401)" />
+                      <option name="url" value="{{url}}/api/buggy/testauth" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/buggy/testauth" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="56ecfe8c-5a7b-47c8-90c2-dc805c249ede" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Secret from buggy With Auth" />
+                      <option name="url" value="{{url}}/api/buggy/testauth" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="3c2fac65-6476-4d33-ba90-509b06b1ac78" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Current User (bob)" />
+                      <option name="url" value="{{url}}/api/account" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/emailExists" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="3691ed95-89e9-482e-8cea-4276bea91899" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Check if email exists" />
+                      <option name="queryParams">
+                        <list>
+                          <queryParamState>
+                            <option name="key" value="email" />
+                            <option name="value" value="bob@test.com" />
+                          </queryParamState>
+                        </list>
+                      </option>
+                      <option name="url" value="{{url}}/api/account/emailExists?email=bob@test.com" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/address" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="47dc4663-a1a5-4528-afbd-9cf4bae65d19" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get User Address (bob)" />
+                      <option name="url" value="{{url}}/api/account/address" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;firstName&quot;: &quot;Bob&quot;,&#10;  &quot;lastName&quot;: &quot;Bobbity&quot;,&#10;  &quot;street&quot;: &quot;10 The Updated Street&quot;,&#10;  &quot;city&quot;: &quot;New York&quot;,&#10;  &quot;state&quot;: &quot;NY&quot;,&#10;  &quot;zipCode&quot;: &quot;90250&quot;,&#10;  &quot;country&quot;: &quot;USA&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/address" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="c78f1d0f-a039-4c05-8062-07f8cf427d02" />
+                      <option name="method" value="PUT" />
+                      <option name="name" value="Update User Address (bob)" />
+                      <option name="url" value="{{url}}/api/account/address" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;firstName&quot;: &quot;Tom&quot;,&#10;  &quot;lastName&quot;: &quot;Smith&quot;,&#10;  &quot;street&quot;: &quot;100 Park Lane&quot;,&#10;  &quot;city&quot;: &quot;London&quot;,&#10;  &quot;state&quot;: &quot;London&quot;,&#10;  &quot;zipCode&quot;: &quot;SW1 1B&quot;,&#10;  &quot;country&quot;: &quot;UK&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/address" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{tom_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="03920cb8-1dac-4d8e-bce3-38ea6513510f" />
+                      <option name="method" value="PUT" />
+                      <option name="name" value="Add User Address (tom)" />
+                      <option name="url" value="{{url}}/api/account/address" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="7000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/" />
+                <option name="id" value="3d119127-ec76-4102-842d-3bb4d870fe4a" />
+                <option name="name" value="Section 16 - Validation" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;firstName&quot;: &quot;Tom&quot;,&#10;  &quot;lastName&quot;: &quot;Smith&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/address" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{tom_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="93470e23-5199-47bf-819a-2383e53b08c9" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update User Address (tom) - Empty Address" />
+                      <option name="url" value="{{url}}/api/account/address" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;displayName&quot;: &quot;Luke&quot;,&#10;&#9;&quot;email&quot;: &quot;anotherbademailaddress&quot;,&#10;&#9;&quot;password&quot;: &quot;&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/register" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="cf970d40-971e-4f64-be7e-580615bcddfb" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Register as Luke with empty password (will return 400)" />
+                      <option name="testScript" value="const user = jc.response.json();&#10;&#10;jc.test(&quot;Has properties&quot;, function () {&#10;    jc.expect(user).to.have.property('displayName');&#10;    jc.expect(user).to.have.property('email');&#10;    jc.expect(user).to.have.property('token');&#10;});&#10;&#10;if (jc.test(&quot;Has properties&quot;)) {&#10;    jc.globals.set('tom_token', user.token);&#10;}&#10;" />
+                      <option name="url" value="{{url}}/api/account/register" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;displayName&quot;: &quot;Luke&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/register" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="a4c43638-8c6b-4e99-945c-fd2bcf5a6b08" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Register as Luke with empty email and password" />
+                      <option name="testScript" value="const user = jc.response.json();&#10;&#10;jc.test(&quot;Has properties&quot;, function () {&#10;    jc.expect(user).to.have.property('displayName');&#10;    jc.expect(user).to.have.property('email');&#10;    jc.expect(user).to.have.property('token');&#10;});&#10;&#10;if (jc.test(&quot;Has properties&quot;)) {&#10;    jc.globals.set('tom_token', user.token);&#10;}&#10;" />
+                      <option name="url" value="{{url}}/api/account/register" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;&#9;&quot;displayName&quot;: &quot;&quot;,&#10;&#9;&quot;email&quot;: &quot;notanemail&quot;,&#10;&#9;&quot;password&quot;: &quot;Pa$$w0rd&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/account/register" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="02d9725d-ee72-4c43-a4f4-c11d444b3bc9" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Register as Luke with bad email address" />
+                      <option name="testScript" value="const user = jc.response.json();&#10;&#10;jc.test(&quot;Has properties&quot;, function () {&#10;    jc.expect(user).to.have.property('displayName');&#10;    jc.expect(user).to.have.property('email');&#10;    jc.expect(user).to.have.property('token');&#10;});&#10;&#10;if (jc.test(&quot;Has properties&quot;)) {&#10;    jc.globals.set('tom_token', user.token);&#10;}&#10;" />
+                      <option name="url" value="{{url}}/api/account/register" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;id&quot;: &quot;basket1&quot;,&#10;  &quot;basketItems&quot;: [&#10;    {&#10;      &quot;id&quot;: 4,&#10;      &quot;productName&quot;: &quot;.NET Black &amp; White Mug&quot;,&#10;      &quot;price&quot;: 0,&#10;      &quot;quantity&quot;: 0,&#10;      &quot;pictureUrl&quot;: &quot;https://localhost:5001/images/products/2.png&quot;,&#10;      &quot;brand&quot;: &quot;.NET&quot;,&#10;      &quot;type&quot;: &quot;USB Memory Stick&quot;&#10;    }&#10;  ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="c55c261d-1960-4f94-9563-de72db067870" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update Basket Zero Quantity" />
+                      <option name="url" value="{{url}}/api/basket" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="8000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/" />
+                <option name="id" value="6f047edd-d56e-499a-a975-68b48eb00c14" />
+                <option name="name" value="Section 18 - Ordering" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;    &quot;id&quot;: &quot;basket1&quot;,&#10;    &quot;items&quot;: [&#10;        {&#10;            &quot;id&quot;: 17,&#10;            &quot;productName&quot;: &quot;Angular Purple Boots&quot;,&#10;            &quot;price&quot;: 1,&#10;            &quot;quantity&quot;: 3,&#10;            &quot;pictureUrl&quot;: &quot;https://localhost:5001/images/products/boot-ang2.png&quot;,&#10;            &quot;brand&quot;: &quot;Angular&quot;,&#10;            &quot;type&quot;: &quot;Boots&quot;&#10;        }&#10;    ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="3ddc8b63-af16-4328-8054-95b7088a9ae3" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update Basket" />
+                      <option name="url" value="{{url}}/api/basket" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;  &quot;basketId&quot;: &quot;basket1&quot;,&#10;  &quot;deliveryMethodId&quot;: 1,&#10;  &quot;shipToAddress&quot;: &#10;    {&#10;      &quot;firstName&quot;: &quot;Bob&quot;,&#10;      &quot;lastName&quot;: &quot;Bobbity&quot;,&#10;      &quot;street&quot;: &quot;10 The Street&quot;,&#10;      &quot;city&quot;: &quot;New York&quot;,&#10;      &quot;state&quot;: &quot;NY&quot;,&#10;      &quot;country&quot;: &quot;USA&quot;,&#10;      &quot;zipcode&quot;: &quot;90250&quot;&#10;    }&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/orders" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="a4bedd6e-46e5-47a1-80f8-69b0350c1a04" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Checkout as bob order1" />
+                      <option name="url" value="{{url}}/api/orders" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/orders" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="f3135002-c0e1-4482-adbd-69442aae3701" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Orders For User (bob)" />
+                      <option name="url" value="{{url}}/api/orders" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/orders/1" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="1ede265e-e32d-4802-811b-b5110b999379" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get Order For User (bob)" />
+                      <option name="url" value="{{url}}/api/orders/1" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/orders/deliveryMethods" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="107a4e91-ac27-4767-a573-f3cd75d8888e" />
+                      <option name="method" value="GET" />
+                      <option name="name" value="Get DeliveryMethods" />
+                      <option name="url" value="{{url}}/api/orders/deliveryMethods" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="9000000" />
+              </folderState>
+              <folderState>
+                <option name="description" value="{{url}}/api/" />
+                <option name="id" value="bbda2909-3e25-4842-ae28-1af6a4003df4" />
+                <option name="name" value="Section 21 - Payments" />
+                <option name="requests">
+                  <list>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;    &quot;id&quot;: &quot;basket1&quot;,&#10;    &quot;items&quot;: [&#10;        {&#10;            &quot;id&quot;: 17,&#10;            &quot;productName&quot;: &quot;Angular Purple Boots&quot;,&#10;            &quot;price&quot;: 1,&#10;            &quot;quantity&quot;: 4,&#10;            &quot;pictureUrl&quot;: &quot;https://localhost:5001/images/products/boot-ang2.png&quot;,&#10;            &quot;brand&quot;: &quot;Angular&quot;,&#10;            &quot;type&quot;: &quot;Boots&quot;&#10;        }&#10;    ]&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="6eda209a-0fce-4626-a5d3-ffbfa17aa9f3" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update Basket" />
+                      <option name="url" value="{{url}}/api/basket" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/payments/basket1" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="6cec35c2-678e-4b36-a98a-e85d4105ade4" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Create payment intent as bob" />
+                      <option name="url" value="{{url}}/api/payments/basket1" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/payments/basket1" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="d4979d50-b96d-4ded-a8a4-1ec6a0abc52d" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update payment intent as bob" />
+                      <option name="url" value="{{url}}/api/payments/basket1" />
+                    </requestState>
+                    <requestState>
+                      <option name="body">
+                        <bodyState>
+                          <option name="raw" value="{&#10;    &quot;id&quot;: &quot;order1&quot;,&#10;    &quot;items&quot;: [&#10;        {&#10;            &quot;id&quot;: 4,&#10;            &quot;productName&quot;: &quot;.NET Black &amp; White Mug&quot;,&#10;            &quot;price&quot;: 8.5,&#10;            &quot;quantity&quot;: 3,&#10;            &quot;pictureUrl&quot;: &quot;https://localhost:5001/images/products/2.png&quot;,&#10;            &quot;brand&quot;: &quot;.NET&quot;,&#10;            &quot;type&quot;: &quot;USB Memory Stick&quot;&#10;        }&#10;    ],&#10;    &quot;deliveryMethodId&quot;: null,&#10;    &quot;clientSecret&quot;: &quot;pi_1G58xoBMsPE8xicUEzksgfsT&quot;,&#10;    &quot;paymentIntentId&quot;: &quot;pi_1G58xoBMsPE8xicUEzksgfsT&quot;&#10;}" />
+                          <option name="type" value="JSON" />
+                        </bodyState>
+                      </option>
+                      <option name="description" value="{{url}}/api/basket" />
+                      <option name="headers">
+                        <list>
+                          <headerState>
+                            <option name="key" value="Content-Type" />
+                            <option name="value" value="application/json" />
+                          </headerState>
+                          <headerState>
+                            <option name="key" value="Authorization" />
+                            <option name="value" value="Bearer {{bob_token}}" />
+                          </headerState>
+                        </list>
+                      </option>
+                      <option name="id" value="50ad08d7-b6eb-4f25-b694-a6c07529d3f9" />
+                      <option name="method" value="POST" />
+                      <option name="name" value="Update Basket with client secret as bob" />
+                      <option name="url" value="{{url}}/api/basket" />
+                    </requestState>
+                  </list>
+                </option>
+                <option name="sortWeight" value="10000000" />
+              </folderState>
+            </list>
+          </option>
+          <option name="id" value="f1bfb6a8-b118-4e56-b879-461f900976ee" />
+          <option name="name" value="ECommerce" />
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="C:\Users\haith\Documents\Code\C#\ASP.net\ECommerce\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="8b76e285-f9e3-4260-a4f7-e013e4375bc5" />
+  </component>
+</project>
