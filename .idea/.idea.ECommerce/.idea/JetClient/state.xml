@@ -124,7 +124,7 @@
                     </requestState>
                   </list>
                 </option>
-                <option name="sortWeight" value="3000000" />
+                <option name="sortWeight" value="2750000" />
               </folderState>
               <folderState>
                 <option name="description" value="{{url}}/api/" />
@@ -182,7 +182,7 @@
                     </requestState>
                   </list>
                 </option>
-                <option name="sortWeight" value="4000000" />
+                <option name="sortWeight" value="3500000" />
               </folderState>
               <folderState>
                 <option name="description" value="{{url}}/api/products" />
