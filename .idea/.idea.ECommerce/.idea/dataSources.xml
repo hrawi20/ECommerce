@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="ECommerce" uuid="36705c24-e966-4d07-b940-665b71b1581f">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>bbce2fe0-c1af-4aad-9f63-98a253a14617</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\haith\Documents\Code\C#\ASP.net\ECommerce\API\ECommerce.db</jdbc-url>
